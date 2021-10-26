@@ -1,0 +1,21 @@
+extends layout
+
+block content
+  link(rel='stylesheet' href='/stylesheets/loginstyle.css')
+  .container
+    .form-group.login_form_top(size='width' name='login_form')
+      h1 log in 
+      img.resize_image01(src='/images/map.png')
+    form(role='form', action="/login", method="post", name='login_form')
+      .form-group.login_form_btm
+        input.form-control(type='text', name="username", placeholder='Enter Username')
+      .form-group.login_form_btm
+        input.form-control(type='password', name="password", placeholder='Password')
+      button#enter.button.btn.submit(type='submit') Submit
+      &nbsp;
+      a(href='/')
+        button#signup.submit(type='submit') Sign up
+//- 必要なライブラリをインストール
+//- $ npm install passport --save
+//- $ npm install passport-local --save
+//- $ npm install express-session --save
