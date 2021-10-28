@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+ <meta charset="utf-8">
+ <title>ITty</title>
+ <meta name="description" content="ディスクリプションを入力">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="style.css">
+ <!-- [if lt IE 9] -->
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+ <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+ <!-- [endif] -->
+ <script src="main.js"></script>
+ </head>
+ <body id="main">
+ <!----- header----->
+ <header class="menu">
+    <h1 class="main_title">ITty</h1>
+    <ul class="main_nav">
+        <li>user ID</li>
+        <li>チャット</li>
+        <li>グループ</li>
+        <li>検索</li>
+        <li>設定</li>
+    </ul>
+ </header>
+ <!----- /header ----->
+ 
+ <!----- main ----->
+ <div id="main_contents">
+ <article class="scroll">
+ <section class="post">
+    <p class="post_logo">3</p>
+    <p class="post_content">新しいラーメン屋おいしい！</p>
+ </section>
+
+ <section class="post">
+    <p class="post_logo">3</p>
+    <p class="post_content">大盛り無料サービス中！！</p>
+ </section>
+
+ <section class="post_gold">
+    <p class="post_logo">4</p>
+    <p class="post_content">
+        １８時からライブやります！<br>
+        ロックに興味ある人ぜひ来て！！<br>
+        一人1000円です！！
+    </p>
+ </section>
+
+ <section class="post">
+    <p class="post_logo">アイコン</p>
+    <p class="post_content">
+        今晩暇な人募集！<br>
+        飲み会開きます！！！
+    </p>
+ </section>
+
+ <section class="post_special">
+    <p class="post_logo">アイコン</p>
+    <p class="post_content">
+        14時から1時間タイムセールします！<br>
+        なんと、最大5割引き！！！！<br>
+        是非お越しください！
+    </p>
+ </section>
+ <section class="post">
+    <p class="post_logo">3</p>
+    <p class="post_content">
+        5割引きのキャンペーンやってる！<br>
+        これはお得だ…
+    </p>
+ </section>
+ </article>
+<div id="map" style="width:400px; height:400px"></div>
+
+ <form id="post_form" action="./index.html" method="post">
+   <textarea placeholder="今の状況を書き込もう！"></textarea>
+   <button type="submit" class="submit" id="submit_button">LEAVE</button>
+ </form>
+</div>
+ <!----- /main ----->
+ <!----- footer ----->
+ <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuQ_ZVMSLgFZrQJk4zvZis1yvARgrAMds&callback=initMap"></script>
+  <!----- /footer ----->
+ </body>
+</html>
