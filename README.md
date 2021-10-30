@@ -1,7 +1,7 @@
 # ITTY
 
 [![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2021/07/JPHACKS2021_ogp.jpg)](https://www.youtube.com/watch?v=LUPQFB4QyVo)
-[![IMAGE ALT TEXT HERE](https://photos.google.com/search/_tra_/photo/AF1QipNbhCrW5WmBwczj960ykFiNE6b4Trwx4QvxWJIV](https://www.youtube.com/watch?v=Gzr6rEMrKlY)
+[![IMAGE ALT TEXT HERE](https://photos.google.com/search/_tra_/photo/AF1QipNbhCrW5WmBwczj960ykFiNE6b4Trwx4QvxWJIV)](https://www.youtube.com/watch?v=Gzr6rEMrKlY)
 
 ## 製品概要
 ### 位置情報で投稿するSNS
