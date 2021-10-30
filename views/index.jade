@@ -1,0 +1,54 @@
+extends layout
+block content
+  link(rel='stylesheet' href='/stylesheets/mainstyle.css')
+  script(src='/javascripts/main.js')
+  body#main
+    header.menu
+      h1.main_title Our application
+      ul.main_nav
+        li user ID
+        li チャット
+        li グループ
+        li 検索
+        li 設定
+    #main_contents
+      article.scroll
+        section.post
+          p.post_logo 3
+          p.post_content 新しいラーメン屋おいしい！
+        section.post
+          p.post_logo 3
+          p.post_content 大盛り無料サービス中！！
+        section.post_gold
+          p.post_logo 4
+          p.post_content
+            | １８時からライブやります！
+            br
+            |         ロックに興味ある人ぜひ来て！！
+            br
+            |         一人1000円です！！
+        section.post
+          p.post_logo アイコン
+          p.post_content
+            | 今晩暇な人募集！
+            br
+            |         飲み会開きます！！！
+        section.post_special
+          p.post_logo アイコン
+          p.post_content
+            | 14時から1時間タイムセールします！
+            br
+            |         なんと、最大5割引き！！！！
+            br
+            |         是非お越しください！
+        section.post
+          p.post_logo 3
+          p.post_content
+            | 5割引きのキャンペーンやってる！
+            br
+            |         これはお得だ…
+      #map(style='width:400px; height:400px')
+      form#post_form(action='/' method='post')
+        textarea(placeholder='今の状況を書き込もう！')
+        button#submit_button.submit(type='submit') SUBMIT
+    script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDuQ_ZVMSLgFZrQJk4zvZis1yvARgrAMds&callback=initMap')
