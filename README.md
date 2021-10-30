@@ -19,19 +19,19 @@
 [![IMAGE ALT TEXT HERE](https://lh3.googleusercontent.com/pacYc431EctJE7lokhP5BQrj4fKxqFcyeW2ikZEv8IQZb-NZwdX7p-6Netp9-vXmWHcPG9AJ5Yv2r2RzhzQX6feJuFoWj4Y7WBwjCswOKej2rSxrUXwznOApcpdTsMLuH_e3xuBeIuXERvI7vek8h2WHNEMEx70ul1q71zu_kWtQldU3k9LgqBUcqSmm7Yfq4rQnaVQBnPFcId5HNQR7-jnzsBEV99hKSzAiTy9uZ9nq8JGkjWoNyZiHuSCDcuWY7Abash1OYr-QuFDOaH1HAmkexH23hd86ftszIMMz3tmUd0txh0hGBEI4XKPvGLwu7iUCaFVwzFIfHrKaTbP0XLAhMzf_bhYGd3U6ywE-vYmwnb_QQUZItKN4VXSSebA98TFVf-QaYeTwXaAkLElo7J0fJm5bKH-Q4Ieh8nV-1sjsM2rH1IYVNYsdOvyrQX-hRTTrDwT7-UGZERnXC6Ucaob5MUTY6dELwDulzPHuZT12ja5kLkgWrUZ6S4nyqwcJFTS8I_6Coz13jzIvAqNOTqCaHxl0CcO-7iSslJgAdmeMd1H60HTZujlGqzxQuIsNejCY34_brFlVPZlmUtckCh90_lERaa6lFz9p0dMBKlEWimcTJg0NDg8f3rVFVX4Go7ahhZFyu6qh8oFNGaB1k6qavT5Z8lChHwNYhCRGGRzI7LRPWV0uVy4F9flZuaVWXd7dV2PsvleHBXS6YRSZbm5c=w960-h540-no?authuser=0)]
   
 ### 特長
-####1. 位置情報を使ったSNS  
+#### 1. 位置情報を使ったSNS  
 これまで位置情報は個人情報流出などの危険性からSNSではタブー視されていた。  
 そこで、これまでのSNSとは違う着目点からサービスを開発することで  
 今までにない新しいサービスとなっている。  
   
-####2. 「今」が旬  
+#### 2. 「今」が旬  
 従来のSNSはフォローした人の投稿がタイムラインに残り  
 過去の情報を得ることが出来た。  
 本サービスは「今」に重点を置き、一定時間後に投稿は削除される。  
 限定商品やタームセール、飲み会の誘いなど  
 今に特化した利用が可能。  
   
-####3. 「場所」に注目  
+#### 3. 「場所」に注目  
 従来のSNSでは、興味のある人やモノについて情報を得ることが主であった。  
 本サービスでは「場所」に重きを置いているため、  
 従来のSNS利用では手に入らない新鮮な情報を得ることが出来る。  
