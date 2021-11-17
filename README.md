@@ -1,6 +1,6 @@
 # ITTY
 
-[![IMAGE ALT TEXT HERE](https://lh3.googleusercontent.com/W7sEkF8CnK1f2DGTxuK2p0ov8aCx-5WIysY8zjri-QT4eQw2UhTAgkXh4hUKtdVxavx64WGa6NjbniMAp5unKUaGiUzCfhMWVniGeLrBt7bgSTUm9XIafDAiPPt9aPSUj02rukZCkMk5jDRer2szX7LrBz7jRlkn2YewqT9C7X23-ZYX-zKm7YPbEreEoFHxzK9EADP4KLZJvQr-ho4O0jQKhaEQ-Z3pseEEEdM3fbXaatPPu6IMngScRMyEcOziG95-tiuh4vLAyL0Lr1AlVJl4BlRmYlwNGz8GmE6-49TrD3oJ26fL7550Ma-rfIezkmPf3qtYTOUu8dkFjxXswWil1mkPyfPLPcX1SLlDd-0kWGHHWe1Av-8_CDbC-lsYDNRtfpcvrEK9X4SPk3vFNxTFyfJHTieT0EM-p7Vt0X935rBb7TlD2_ugdVrYfoKL7U1vBy0KH_VFcUwNJIgP6kERfq-ROu0w75ra-KelsfiTN6-Ufug-CCvSld6AuIsLwm9JBuvwwVxKCwgK9rvDZBkpuC-rMjbuMAvHJO4eY2ZkOeutlWg5D_u1qMQEtIykY3IhzM99Jfj4tzyXGlX6uLp9ciKjCMHOSfBokwFqIAp2l0Y5YDIgup1kfo5wxONzku44hYKPISERYpqWcUouN_XinH6jiy_JRYqL4hEy-MzscY5AwGHo4ac8RWRZlhHGErDD46rplOkDJOX9sB4KyJn3=w1920-h542-no?authuser=0)](https://www.youtube.com/watch?v=Gzr6rEMrKlY)
+[![IMAGE ALT TEXT HERE](https://photos.app.goo.gl/eDmYjAze7vzvYD646](https://www.youtube.com/watch?v=Gzr6rEMrKlY)
 画像をクリックするとPVが流れます
 
 ## 製品概要
