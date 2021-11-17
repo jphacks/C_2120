@@ -1,6 +1,6 @@
 # ITTY
 
-[![IMAGE ALT TEXT HERE](https://photos.app.goo.gl/eDmYjAze7vzvYD646](https://www.youtube.com/watch?v=Gzr6rEMrKlY)
+[![IMAGE ALT TEXT HERE](https://photos.app.goo.gl/eDmYjAze7vzvYD646)](https://www.youtube.com/watch?v=Gzr6rEMrKlY)
 画像をクリックするとPVが流れます
 
 ## 製品概要
